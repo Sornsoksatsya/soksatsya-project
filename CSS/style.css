@@ -1,0 +1,19 @@
+body{
+    background:pink ;
+}
+hr{
+   
+    color:sienna ;}
+    h1{
+        color: red;
+        text-align: center;
+        background:rgb(red, green, blue) ;
+        font-weight: bold; font-style:italic ;
+        text-decoration:underline ;
+    }
+    p{
+        text-align:justify ;
+        font-family:verdana ;
+        font-size:23px ;
+        color: rgb(red, green, blue)
+    }
